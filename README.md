@@ -1,14 +1,10 @@
 ![Banner1](https://github.com/vldrco/vldrco/assets/90654731/5a057a6c-022b-4ee4-99bb-82ea6b5db292)
-<h3 align="center">Currently learning backend development</h3>
+<h3 align="center">Still in school.</h3>
 <img align="right" width="400" src="https://cdnb.artstation.com/p/assets/images/images/030/555/445/original/runny-run-homegiffy.gif?1600953104&dl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vldrco&label=Profile%20views&color=0e75b6&style=flat" alt="vldrco" /> </p>
 
-- 🌱 I’m currently learning **python and go**
-
-- 💬 Ask me about **nothing...**
-
-- 📫 How to reach me **vldrco92@gmail.com**
+- 🌱 I’m currently learning **Front-End Development**
 
 - ⚡ Fun fact **...**
 
